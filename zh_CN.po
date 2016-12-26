@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: lilypond 2.19.53\n"
 "Report-Msgid-Bugs-To: http://post.gmane.org/post.php?group=gmane.comp.gnu.lilypond.bugs\n"
 "POT-Creation-Date: 2016-12-17 13:40+0000\n"
-"PO-Revision-Date: 2016-12-26 19:54+0800\n"
+"PO-Revision-Date: 2016-12-26 23:43+0800\n"
 "Last-Translator: Ben Luo <benluo@gmail.com>\n"
 "Language-Team: Chinese <zh@li.org>\n"
 "Language: Chinese\n"
@@ -76,27 +76,27 @@ msgstr "兼容模式翻译：%s"
 #: book_snippets.py:530
 #, python-format
 msgid "ignoring unknown ly option: %s"
-msgstr ""
+msgstr "忽略不知道的 ly 选项"
 
 #: book_snippets.py:621
 #, python-format
 msgid "Missing files: %s"
-msgstr ""
+msgstr "缺少文件：%s"
 
 #: book_snippets.py:661
 #, python-format
 msgid "Could not overwrite file %s"
-msgstr ""
+msgstr "不能覆盖文件 %s"
 
 #: book_snippets.py:748
 #, python-format
 msgid "Running through filter `%s'"
-msgstr ""
+msgstr "通过过滤器 `%s' 来运行"
 
 #: book_snippets.py:769
 #, python-format
 msgid "`%s' failed (%d)"
-msgstr ""
+msgstr "`%s' 失败 (%d)"
 
 #: book_snippets.py:770
 msgid "The error log is as follows:"
@@ -105,7 +105,7 @@ msgstr "错误日志如下："
 #: book_snippets.py:890
 #, python-format
 msgid "Converting MusicXML file `%s'...\n"
-msgstr ""
+msgstr "正在转换 MusicXML 文件 `%s'...\n"
 
 #: book_snippets.py:917
 #, python-format
@@ -132,7 +132,7 @@ msgstr ""
 #: convertrules.py:13
 #, python-format
 msgid "Not smart enough to convert %s."
-msgstr "因为不够智能，不能转变 %s。"
+msgstr "转换程序不够智能，不能转换 %s。"
 
 #: convertrules.py:14
 msgid "Please refer to the manual for details, and update manually."
@@ -141,7 +141,7 @@ msgstr ""
 #: convertrules.py:15
 #, python-format
 msgid "%s has been replaced by %s"
-msgstr ""
+msgstr "%s 已经被 %s 替换了"
 
 #: convertrules.py:25 lilylib.py:136 warn.cc:223
 #, c-format, python-format
@@ -183,20 +183,20 @@ msgstr ""
 #: convertrules.py:2318
 #, python-format
 msgid "deprecate %s"
-msgstr ""
+msgstr "不支持 %s "
 
 #: convertrules.py:280
 #, python-format
 msgid "deprecate %s "
-msgstr ""
+msgstr "不支持 %s "
 
 #: convertrules.py:306
 msgid "new \\notenames format"
-msgstr ""
+msgstr "新的 \\notenames 格式"
 
 #: convertrules.py:322
 msgid "new tremolo format"
-msgstr ""
+msgstr "新的颤音格式"
 
 #: convertrules.py:326
 msgid "Staff_margin_engraver deprecated, use Instrument_name_engraver"
@@ -208,12 +208,12 @@ msgstr ""
 
 #: convertrules.py:438
 msgid "new \\textscript markup text"
-msgstr ""
+msgstr "新的 \\textscript 标记文本"
 
 #: convertrules.py:510
 #, python-format
 msgid "identifier names: %s"
-msgstr ""
+msgstr "标识符的名称：%s"
 
 #: convertrules.py:549
 msgid "point-and-click argument changed to procedure."
@@ -221,27 +221,27 @@ msgstr ""
 
 #: convertrules.py:591
 msgid "semicolons removed"
-msgstr ""
+msgstr "分号删除了"
 
 #. 40 ?
 #: convertrules.py:634
 #, python-format
 msgid "%s property names"
-msgstr ""
+msgstr "%s 属性名"
 
 #: convertrules.py:704
 msgid "automaticMelismata turned on by default"
-msgstr ""
+msgstr "缺省是打开 autoaticMelismata"
 
 #: convertrules.py:709
 msgid "automaticMelismata is turned on by default since 1.5.67."
-msgstr ""
+msgstr "从 1.5.67 开始，缺省是打开 autoaticMelismata"
 
 #: convertrules.py:943 convertrules.py:1636 convertrules.py:1890
 #: convertrules.py:2135
 #, python-format
 msgid "remove %s"
-msgstr ""
+msgstr "删除 %s"
 
 #: convertrules.py:978 convertrules.py:981
 msgid "cluster syntax"
